@@ -1,0 +1,33 @@
+2016:01:28@16:37:39(0000000001) < > GpuTest (Linux x64) is starting up...
+2016:01:28@16:37:39(0000000002) < > GpuTest: Cross Platform Graphics Benchmark Utility
+2016:01:28@16:37:39(0000000003) < > (C)2012-2014 Geeks3D (www.geeks3d.com)
+2016:01:28@16:37:39(0000000004) < > Linux information:
+2016:01:28@16:37:39(0000000005) < > - sysname: Linux
+2016:01:28@16:37:39(0000000006) < > - release: 3.19.0-15-generic
+2016:01:28@16:37:39(0000000007) < > - version: #15-Ubuntu SMP Thu Apr 16 23:32:37 UTC 2015
+2016:01:28@16:37:39(0000000008) < > - machine: x86_64
+2016:01:28@16:37:39(0000000009) < > gxl3d codename: Zhald.
+2016:01:28@16:37:39(0000000010) <!> OpenCL support not found: unable to load the OpenCL core library (libOpenCL.so).
+2016:01:28@16:37:39(0000000011) < > gxl3d_plugin_gpu_monitor_gml: GPU monitor plugin for gxl3d.. By JeGX / Geeks3D.com
+2016:01:28@16:37:39(0000000012) < > [GpuMonitor plugin] Linux - CPU name: AMD Phenom(tm) II X6 1055T Processor, CPU speed: 2809MHz, RAM: 3864MB
+2016:01:28@16:37:39(0000000013) < > [GpuMonitor plugin] Num GPUs found: 1
+2016:01:28@16:37:39(0000000014) < > [GpuMonitor plugin] GPU0 - Advanced Micro Devices, Inc. [AMD/ATI] Tobago PRO [Radeon R7 360 / R9 360 OEM] (rev 81)
+
+2016:01:28@16:37:39(0000000015) < > [GpuMonitor plugin] GPU0 - PCI codes: 0x1002-0x665F
+2016:01:28@16:37:39(0000000016) < > GPU monitoring thread started.
+2016:01:28@16:37:39(0000000017) < > Display size: width=1920, height=1200
+2016:01:28@16:37:39(0000000018) < > Window size: width=1024, height=640, left=0, top=0
+2016:01:28@16:37:39(0000000019) < > FurMark - OpenGL renderer init OK.
+2016:01:28@16:37:39(0000000020) < > FurMark - VSYNC disabled (xxx_SwapInterval_xxx available).
+2016:01:28@16:37:39(0000000021) < > FurMark - OpenGL version detected: 3.0
+2016:01:28@16:37:39(0000000022) < > FurMark - # OpenGL extensions: 229
+2016:01:28@16:37:39(0000000023) < > FurMark - OpenGL - Renderer model: Gallium 0.4 on llvmpipe (LLVM 3.6, 128 bits)
+2016:01:28@16:37:39(0000000024) < > FurMark - OpenGL - Renderer vendor: VMware, Inc.
+2016:01:28@16:37:39(0000000025) < > FurMark - OpenGL - API version: 3.0 Mesa 10.5.2
+2016:01:28@16:37:39(0000000026) < > FurMark - OpenGL - Shading language version: 1.30
+2016:01:28@16:37:40(0000000027) < > FurMark : init OK.
+2016:01:28@16:42:18(0000000028) < > Exit from render thread
+2016:01:28@16:42:18(0000000029) < > # frames rendered: 96
+2016:01:28@16:42:18(0000000030) < > Stopping gxl3d engine...
+2016:01:28@16:42:18(0000000031) < > Exit from GpuTest.
+
